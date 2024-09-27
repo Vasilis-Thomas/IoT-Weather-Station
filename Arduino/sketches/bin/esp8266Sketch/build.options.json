@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "esp8266:esp8266:generic:xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,ResetMethod=nodemcu,CrystalFreq=26,FlashFreq=40,FlashMode=dio,eesz=1M64,led=2,sdk=nonosdk_190703,ip=lm2f,dbg=Serial,lvl=None____,wipe=all,baud=115200",
+  "hardwareFolders": "C:\\Users\\Vasilis\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "D:\\Files\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "D:\\Files\\Desktop\\Arduino Weather Station\\Arduino\\sketches\\esp8266Sketch"
+}

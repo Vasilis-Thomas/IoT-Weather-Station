@@ -1,0 +1,8 @@
+#line 1 "D:\\Files\\Desktop\\Arduino Weather Station\\Arduino\\sketches\\esp8266Sketch\\.vscode\\arduino.json"
+{
+    "output": "../bin/esp8266Sketch",
+    "configuration": "xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,ResetMethod=nodemcu,CrystalFreq=26,FlashFreq=40,FlashMode=dio,eesz=1M64,led=2,sdk=nonosdk_190703,ip=lm2f,dbg=Serial,lvl=None____,wipe=all,baud=115200",
+    "board": "esp8266:esp8266:generic",
+    "sketch": "esp8266Sketch.ino",
+    "port": "COM5"
+}

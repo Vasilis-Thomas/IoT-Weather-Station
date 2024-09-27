@@ -1,0 +1,7 @@
+#line 1 "D:\\Files\\Desktop\\Arduino Weather Station\\Arduino\\sketches\\arduinoSketch\\.vscode\\arduino.json"
+{
+    "output": "../bin/arduinoSketch",
+    "board": "arduino:avr:uno",
+    "sketch": "arduinoSketch.ino",
+    "port": "COM5"
+}
